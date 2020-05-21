@@ -51,7 +51,7 @@ int main(int argc, char *argv[])
                 fwrite(bytes, 512, 1, img);
             }
         }
-        //free(filename);
+        free(filename);
         fclose(img); //Close any remaining files
         //return 0;
     }
