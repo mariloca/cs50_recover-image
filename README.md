@@ -7,11 +7,12 @@ Writing a program to recover photos from a memory card even though the photos ha
 ## Code Structure
 - *card.raw: stores the 'deleted' image
 - recover.c: main file
+- *is file prepared by CS50
 
-### Installing
+## Installing
 Online C complier [CS50 IDE](https://ide.cs50.io/).
 
-### Implementation
+## Implementation
 Compiling
 ```
 $ make recover 
