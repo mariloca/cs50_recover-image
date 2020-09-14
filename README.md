@@ -10,8 +10,8 @@ Writing a program to recover photos from a memory card even though the photos ha
 - *is file prepared by CS50
 
 ## Installing
-Online C complier [CS50 IDE](https://ide.cs50.io/).
-
+Run on [CS50 IDE](https://ide.cs50.io/).
+Log in with your github account.
 ## Implementation
 Compiling
 ```
